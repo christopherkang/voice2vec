@@ -1,13 +1,5 @@
-.DS_Store
-.ipynb_checkpoints
-*.pyc
+logdir
+test*.*
+__init__.py
 __pycache__
-*.egg-info
-build/*
-dist/*
-*~
-.cache
-.coverage
-checkpoint
-htmlcov
-mnist
+.vscode
